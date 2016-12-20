@@ -1,6 +1,7 @@
 {
     "name": "damianlewis/environmentswitcher",
     "description": "Switches the current application environment",
+    "type": "git",
     "authors": [
         {
             "name": "Damian Lewis",
